@@ -38,7 +38,10 @@ A drone that can fly and also drive
 
 
 # wiring 
-<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/7b0d14b0-802a-42ed-9780-6114f5411b11" />
+<img width="1260" height="840" alt="circuit" src="https://github.com/user-attachments/assets/a1c2f578-64f5-498d-925f-8081793e35b8" />
+
+
+
 |     Pin     |                                     Connects to                                    |   |   |   |   |
 |:-----------:|:----------------------------------------------------------------------------------:|---|---|---|---|
 | 5V          | DC-DC Converter VOUT+ (5V logic rail)                                              |   |   |   |   |
