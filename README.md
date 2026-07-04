@@ -36,3 +36,28 @@ A drone that can fly and also drive
 |                     |                                                                                                                                                                                                             |                         |                |                |       |
 | Total sum           |                                                                                                                                                                                                     1745.25 |                         |                |                |       |
 
+
+# wiring 
+<img width="949" height="591" alt="image" src="https://github.com/user-attachments/assets/7b0d14b0-802a-42ed-9780-6114f5411b11" />
+|     Pin     |                                     Connects to                                    |   |   |   |   |
+|:-----------:|:----------------------------------------------------------------------------------:|---|---|---|---|
+| 5V          | DC-DC Converter VOUT+ (5V logic rail)                                              |   |   |   |   |
+| GND         | Common ground                                                                      |   |   |   |   |
+| TX (GPIO14) | Flight Controller RX                                                               |   |   |   |   |
+| RX (GPIO15) | Flight Controller TX                                                               |   |   |   |   |
+| CSI         | Camera CSI                                                                         |   |   |   |   |
+| SDA (GPIO2) | Shared I2C bus → Flight Controller SDA + all 4 ToF sensors' SCL... wait, SDA lines |   |   |   |   |
+| SCL (GPIO3) | Shared I2C bus → Flight Controller SCL + all 4 ToF sensors' SCL line               |   |   |   |   |
+|     GPIO    |                                     Connects to                                    |   |   |   |   |
+| GPIO17      | Motor Driver — BIN2                                                                |   |   |   |   |
+| GPIO18      | Motor Driver — PWMA                                                                |   |   |   |   |
+| GPIO22      | Motor Driver — AIN1                                                                |   |   |   |   |
+| GPIO23      | Motor Driver — AIN2                                                                |   |   |   |   |
+| GPIO24      | Motor Driver — BIN1                                                                |   |   |   |   |
+| GPIO13      | Motor Driver — PWMB                                                                |   |   |   |   |
+| GPIO4       | ToF Sensor 1 — XSHUT                                                               |   |   |   |   |
+| GPIO5       | ToF Sensor 2 — XSHUT                                                               |   |   |   |   |
+| GPIO6       | ToF Sensor 3 — XSHUT                                                               |   |   |   |   |
+| GPIO16      | ToF Sensor 4 — XSHUT                                                               |   |   |   |   |
+| GPIO26      | ESC — TLM                                                                          |   |   |   |   |
+| GPIO27      | ESC — CUR                                                                          |   |   |   |   |
