@@ -11,7 +11,8 @@ A drone that can fly and also drive
 
 
 # Zine
-<img width="1414" height="2000" alt="Oasis" src="https://github.com/user-attachments/assets/7db2bbde-b2a5-4023-8dc9-ad073debb3b4" />
+<img width="1414" height="2000" alt="Oasis" src="https://github.com/user-attachments/assets/303b708e-5bd1-4e52-b64c-ed02fd3ea6dd" />
+
 
 
 # BOM
