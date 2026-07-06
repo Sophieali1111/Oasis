@@ -69,3 +69,18 @@ A drone that can fly and also drive
 | GPIO16      | ToF Sensor 4 — XSHUT                                                               |   |   |   |   |
 | GPIO26      | ESC — TLM                                                                          |   |   |   |   |
 | GPIO27      | ESC — CUR                                                                          |   |   |   |   |
+
+
+
+# CAD
+Top side-
+<img width="682" height="411" alt="image" src="https://github.com/user-attachments/assets/b614422a-536b-4694-9eea-909fa3bc9c29" />
+Top- 
+<img width="710" height="575" alt="image" src="https://github.com/user-attachments/assets/20723ade-6e23-4b08-ac8b-2262cbc95340" />
+Right- 
+<img width="941" height="461" alt="image" src="https://github.com/user-attachments/assets/d6d68e25-34e5-43b7-a994-0f4d333b1556" />a
+Bottem - 
+<img width="668" height="587" alt="image" src="https://github.com/user-attachments/assets/4e1e0b29-173e-492a-a112-2889fbd552f7" />
+
+
+
