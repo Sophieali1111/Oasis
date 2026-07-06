@@ -1,4 +1,4 @@
-
+<img width="514" height="561" alt="image" src="https://github.com/user-attachments/assets/d3c55968-4cf5-433d-b137-7b2cf3d78964" />
 # Oasis
 # what it is?
 A drone that can fly and also drive
@@ -10,6 +10,8 @@ A drone that can fly and also drive
   The world is ending in 7 days, to make sure that everyone can keep building we created a vehical that could get to our hardware oasis.This means travling all sorts of terrian and a single type vehical could just not cut it therefore Oasis came to life.To get YOU to hide in a hardware oasis with all of us. 
 
 
+# Zine
+<img width="1414" height="2000" alt="Oasis" src="https://github.com/user-attachments/assets/7db2bbde-b2a5-4023-8dc9-ad073debb3b4" />
 
 
 # BOM
@@ -39,6 +41,8 @@ A drone that can fly and also drive
 
 # wiring 
 <img width="1260" height="840" alt="circuit" src="https://github.com/user-attachments/assets/a1c2f578-64f5-498d-925f-8081793e35b8" />
+
+
 
 
 
