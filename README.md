@@ -3,8 +3,7 @@
 # what it is?
 A drone that can fly and also drive
 # How to use it?
-  Our drone driver, can navigate a wide range of terrain to get to the oasis eg. in strong wind it can drop down to travel on the ground, and in circumstances reqire elevation such as a cliff it can displace as a drone. Combinging these this vehivle is almost invincible in any sort of situation.
-  It is 4 cell 14.8V lipo battery powered with a rasberry pi 02W and flight controller to controll movement of 4 drone motors, two servos and two driving motors.Allowing it to have up to 4 kg of tourqe while flying and travel on land at esta. 7km hour. 
+  Oasis is a remote controlled quad-copter drone with land driving capabilities. It can navigate a vast variety of terrain to escape the end of the world and make it to... The Oasis. Having two alternate modes travel provide a versitility that is not achieved by anything else. In strong winds it can drop down to travel on the ground. And in situations where driving is just not possible, Oasis can fly up and overcome obstacles. It is powered by a 4S 14.8V Li-Po battery and controlled by a Raspberry Pi Zero 2W and SpeedyBee F405 V5 FC/ESC stack to manage four 2207 1968KV drone motors, two MG90S servos for steering and one driving motors. It has a front-mounted non-adjustable camera, and TOF sensors to prevent collisions both in-air, and on the ground.
   It is controlled through a codded mobile app and has cameras mounted on the front underneath the propellers to allow for controll over a distance 
 # WHY it exists?
   The world is ending in 7 days, to make sure that everyone can keep building we created a vehical that could get to our hardware oasis.This means travling all sorts of terrian and a single type vehical could just not cut it therefore Oasis came to life.To get YOU to hide in a hardware oasis with all of us. 
