@@ -1,4 +1,4 @@
-<img width="514" height="561" alt="image" src="https://github.com/user-attachments/assets/d3c55968-4cf5-433d-b137-7b2cf3d78964" />
+
 # Oasis
 # what it is?
 A drone that can fly and also drive
